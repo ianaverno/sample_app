@@ -2,8 +2,6 @@ require 'spec_helper'
 
 describe "Static pages" do
 
-	let(:base_title) {"Sample App"}
-
   subject { page }
 
   describe "Home page" do
